@@ -1,3 +1,7 @@
+#Zedytowano dla zajęc WSB Merito
+
+
+
 # Flask
 
 Flask is a lightweight [WSGI] web application framework. It is designed
